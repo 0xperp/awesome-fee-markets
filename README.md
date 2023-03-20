@@ -8,13 +8,14 @@
 - [An overview of 1559](https://www.galaxy.com/research/insights/eip-1559-major-ethereum-upgrade/)
 - [Analysis of 1559](https://insights.deribit.com/market-research/analysis-of-eip-1559/)
 - [EIP-1559 in Filecoin](https://filecoin.io/blog/posts/eip-1559-in-filecoin/)
+- [Multidimensional EIP-1559](https://ethresear.ch/t/multidimensional-eip-1559/11651)
 
 ## Other Research
 - [Fee Transaction Priority](https://docs.solana.com/proposals/fee_transaction_priority)
 - [The Blocksize War](https://blog.bitmex.com/the-blocksize-war/)
 - [A General and Configurable Framework for Blockchain-based Marketplaces](https://arxiv.org/abs/2103.11765)
 - [Effect of Miner Incentive on the Confirmation Time of Bitcoin Transactions](https://arxiv.org/abs/2111.02725)
-- [Redesigning Bitcoin's fee market
-](https://arxiv.org/abs/1709.08881)
+- [Redesigning Bitcoin's fee market](https://arxiv.org/abs/1709.08881)
 - [Bribes to Miners: Evidence from Ethereum](https://arxiv.org/abs/2203.14601)
 - [Optimality Despite Chaos in Fee Markets](https://arxiv.org/abs/2212.07175)
+- [EIP4844 Fee Market Analysis](https://ethresear.ch/t/eip-4844-fee-market-analysis/15078)
